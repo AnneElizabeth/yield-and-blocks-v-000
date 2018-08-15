@@ -11,9 +11,4 @@ def hello_t(array)
     puts "Hey! No block was given!"
   end
 end
-# hello_t(["Tim", "Tom", "Jim"])
-#   if name.start_with?("T")
-#     puts "Hi, #{name}"
-#   end
-# end
 
